@@ -2,6 +2,8 @@
 
 Accelerate your machine learning workflow by doing 50% of your modeling iterations in 10% of the time. SecondDraftML is a visual insight-oriented AutoML package designed for rapid exploration and model prototyping, helping you quickly navigate the critical first half of the ML workflow.
 
+> **Note:** This project was designed to a be a big project, it's now at early stages of development. Features and APIs are subject to change.
+
 ## Why SecondDraftML?
 
 The typical ML development workflow involves:
